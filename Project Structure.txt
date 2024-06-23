@@ -1,0 +1,7 @@
+app.py: Main application file containing Flask and Dash setup.
+data/: Directory containing the CSV data files.
+models/: Directory containing the saved models and scaler.
+templates/: Directory containing HTML templates.
+static/: Directory containing static files (CSS).
+requirements.txt: List of required Python packages.
+README.md: Project documentation.
